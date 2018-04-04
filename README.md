@@ -4,5 +4,5 @@ It contains details of the event managers, participants and volunteers in Oracle
 I have used Netbeans IDE.
 
 ### Requirements
-* Linux
-* Python 3.3 and up
+* Netbeans
+* Oracle DataBase
